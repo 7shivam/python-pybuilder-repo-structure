@@ -5,9 +5,9 @@
 
   pip install pybuilder
 
-  # If you want the bleeding edge
-  # (we release after every commit)
-  # pip install --pre pybuilder
+  If you want the bleeding edge
+  (we release after every commit)
+  pip install --pre pybuilder
 
   pyb --start-project
   pyb publish
@@ -21,9 +21,9 @@
   source venv/bin/activate
   pip install pybuilder
 
-  # If you want the bleeding edge
-  # (we release after every commit)
-  # pip install --pre pybuilder
+  If you want the bleeding edge
+  (we release after every commit)
+  pip install --pre pybuilder
 
   pyb
 
